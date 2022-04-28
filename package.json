@@ -3,7 +3,7 @@
     "express": "4.18.0"
   },
   "scripts": {
-    "start": "server.js"
+    "start": "node server.js"
   },
-  "main": "node server.js"
+  "main": "erver.js"
 }
